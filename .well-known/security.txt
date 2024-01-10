@@ -3,7 +3,7 @@ Hash: SHA256
 
 Contact: mailto:security@kraxnet.com
 Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/0ECE09253E2394088F47077CC9C4569EB636C3DB
-Encryption: https://kraxnet.com/security/punblickey.txt
+Encryption: https://kraxnet.com/security/publickey.txt
 Policy: https://kraxnet.com/security/policy
 Preferred-Languages: en, cs, sk, de
 Canonical: https://kraxnet.com/.well-known/security.txt
@@ -20,8 +20,8 @@ Expires: 2025-01-01T00:00:00.000Z
 #  **   **  **   ** **   ** **   ** **   ** ******  ******
 -----BEGIN PGP SIGNATURE-----
 
-iIsEARMIADMWIQQOzgklPiOUCI9HB3zJxFaetjbD2wUCZZ38nRUcc2VjdXJpdHlA
-a3JheG5ldC5jb20ACgkQycRWnrY2w9te5gD/atmoh2FYlJ9EyaCNtblAPuVE2LH2
-8Z8J3XtQYTpxsJ8A+gKQjRKfgdYDO+iL8ncXKtSmtmog1kLFYiRlLBNght6m
-=QveB
+iIsEARMIADMWIQQOzgklPiOUCI9HB3zJxFaetjbD2wUCZZ6iZxUcc2VjdXJpdHlA
+a3JheG5ldC5jb20ACgkQycRWnrY2w9uOXQEAk6QZjRdAS6E5rQQvqh4TYI3nXpsV
+aOvyfx/kzIkNC10A/0HEIQmBkHX7amY8f6Vn9KpJ58axXG4a5blp2P61fney
+=Z0u7
 -----END PGP SIGNATURE-----
