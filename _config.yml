@@ -20,11 +20,10 @@
 
 title: KRAXNET
 email: info@kraxnet.com
-description: KRAXNET s.r.o. - worldwide website
+description: KRAXNET s.r.o. - global website of a local company
 logo: /assets/img/kraxnet.logo.png
 baseurl: ""
-#url: "https://www.kraxnet.com"
-url: "http://localhost:4000"
+url: "https://kraxnet.com"
 repository: "kraxnet/www_kraxnet_com"
 twitter_username: kraxnet
 github_username:  kraxnet

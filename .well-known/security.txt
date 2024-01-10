@@ -7,11 +7,21 @@ Encryption: https://kraxnet.com/security/punblickey.txt
 Policy: https://kraxnet.com/security/policy
 Preferred-Languages: en, cs, sk, de
 Canonical: https://kraxnet.com/.well-known/security.txt
-Expires: 2034-01-01T00:00:00.000Z
+Canonical: https://www.kraxnet.com/.well-known/security.txt
+Expires: 2025-01-01T00:00:00.000Z
+
+#  **   **  ******  ******  **   ** ******  ******  **
+#  **   **  **   ** **   ** **   ** **   ** **   ** **
+#  **   **  **   ** **   ** **   ** **   ** **   ** **
+#  ******  ******* ********   ***   **   ** ******* *****
+#  **   **  **   ** **   ** **   ** **   ** **      **
+#  **   **  **   ** **   ** **   ** **   ** **   ** **   **
+#  **   **  **   ** **   ** **   ** **   ** **   ** **   **
+#  **   **  **   ** **   ** **   ** **   ** ******  ******
 -----BEGIN PGP SIGNATURE-----
 
-iIsEARMIADMWIQQOzgklPiOUCI9HB3zJxFaetjbD2wUCZZ3xmhUcc2VjdXJpdHlA
-a3JheG5ldC5jb20ACgkQycRWnrY2w9tRZAEAhzHXzgzxfhilguXdsOSeOHuZ4Cg/
-mzVWnVTKj6Ay2UAA/AkHMorlPhXvdnyskZ40VaeArnxBIRIsEBpTYpKyb2/O
-=eA+q
+iIsEARMIADMWIQQOzgklPiOUCI9HB3zJxFaetjbD2wUCZZ38nRUcc2VjdXJpdHlA
+a3JheG5ldC5jb20ACgkQycRWnrY2w9te5gD/atmoh2FYlJ9EyaCNtblAPuVE2LH2
+8Z8J3XtQYTpxsJ8A+gKQjRKfgdYDO+iL8ncXKtSmtmog1kLFYiRlLBNght6m
+=QveB
 -----END PGP SIGNATURE-----
